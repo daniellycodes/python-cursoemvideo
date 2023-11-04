@@ -1,2 +1,3 @@
-# cursoemvideo-python3
-repositório para os exercícios do curso de python 3 do curso em vídeo.
+# Python 3 - Curso em Vídeo
+
+Repositório para os exercícios do curso de Python 3 do Curso em Vídeo.
